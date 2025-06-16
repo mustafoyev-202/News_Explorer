@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymongo
+pandas
+requests
+python-dotenv
+certifi
+jinja2
+pydantic
+urllib3
